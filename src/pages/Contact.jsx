@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 
 
 const WHATSAPP_NUMBER = '917986297302'
-const APPS_SCRIPT_URL = '' // paste your deployed apps script URL here
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbymJKn0LUGpwKXTD4qGiWzjZCI_7FmnjApF9ia2VsjStKWRr2guYHJGKu_HQ9J-XiXPaw/exec' // paste your deployed apps script URL here
 
 
 export default function Contact(){
